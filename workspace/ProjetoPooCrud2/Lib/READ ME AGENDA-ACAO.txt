@@ -1,13 +1,20 @@
+﻿
+Vá até a classe GenericDao e  na propriedade "User", coloque  o usuário do seu banco de dados MySQL
+na propriedade senha coloque a senha do seu banco de dados MySQL.
 
-INSIRA OS COMANDOS ABAIXO PARA CRIAR AS TEBELAS NO MySQL ASSIM COMO AS CHAVES PRIMÁRIAS 
 
 O USUÁRIO PARA LOGAR-SE NO SISTEMA É 
 USUÁRIO: GROCHA
 SENHA : 12345
 
+Oformato da data é no padrão americano (yyyy/mm/dd)
+o preenchimento da hora é no mesmo campo que a data 
+exemplo:
+2017/12/07 14:50
 
 
 
+INSIRA OS COMANDOS ABAIXO no MySQL PARA CRIAR AS TEBELAS NO MySQL ASSIM COMO AS CHAVES PRIMÁRIAS 
 
 CREATE DATABASE PROJETO_POO;
 
